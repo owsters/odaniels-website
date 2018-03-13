@@ -1,0 +1,14 @@
+@import url('https://assets.lenoxsoft.com/css/combined.css') all;
+@import url('https://odaniels-website.herokuapp.com/css/custom.css') all;
+@import url('https://assets.lenoxsoft.com/css/responsive.css') all;
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css') all;
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,700') all;
+@import url('https://assets.lenoxsoft.com/css/pardot-custom-form.css') all;
+
+p {
+ margin: 1em 0;
+}
+
+ul, ol {
+ margin-left: 2em;
+}
